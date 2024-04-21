@@ -12,7 +12,12 @@ This project demonstrates how to create a simple swipe animation similar to the 
 
 ## Screenshots
 
-*Include screenshots or GIFs of your swipe animation here.*
+
+
+https://github.com/Riser17/TinderSwipeAnimationApp/assets/91198103/e93e7342-4e80-456e-9dd6-a8fa0c3f0ff7
+
+![WhatsApp Image 2024-04-21 at 10 19 50 PM](https://github.com/Riser17/TinderSwipeAnimationApp/assets/91198103/87dd84d7-fb18-462e-9fc0-42ffce2e239e)
+
 
 ## Prerequisites
 
