@@ -30,4 +30,5 @@ https://github.com/Riser17/TinderSwipeAnimationApp/assets/91198103/e93e7342-4e80
 ### Clone Repository
 
 ```bash
-git clone [https://github.com/Riser17/TinderSwipeAnimationApp]
+git clone https://github.com/Riser17/TinderSwipeAnimationApp
+```
